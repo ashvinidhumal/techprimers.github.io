@@ -55,3 +55,5 @@ Feel free to just add the `.md` file alone.
 
 ## Motivation 
 Contribution brings happiness to world!
+
+##sample command
